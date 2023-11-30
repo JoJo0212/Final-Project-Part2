@@ -25,7 +25,7 @@ It certainly aids in my comprehension of how meat consumption affects our world.
 
 *Is there anything you would change or do differently?*  
 
-I believe it would enhance the narrative flow if the sections on meat consumption and meat production were switched. As production comes before consumption.
+I believe it would enhance the narrative flow if the sections on meat consumption and meat production were switched or mix together as production comes before consumption and there are some overlap of those two topics.
 
 **Reader 2. Student, mid 20’s**
 
