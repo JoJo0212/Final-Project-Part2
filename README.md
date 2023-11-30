@@ -1,4 +1,9 @@
 # Final-Project-Part2
+## Wireframes and storyboards
+
+I tried to start using Shorthand to create a draft of my final report, but faced some issue of adding my graphs on it and some difficulty of generating an ideal templete, so in Part2, I used word as the draft, and tried my best to show my plan of formatting and the whole story.
+The content here is the version after taking the useful advice provided by my interviewees.
+
 
 ## User research and interviews
 
@@ -20,13 +25,13 @@ It certainly aids in my comprehension of how meat consumption affects our world.
 
 *Is there anything you would change or do differently?*  
 
-I believe it would enhance the narrative flow if the sections on meat production and meat consumption were switched. Placing meat consumption first might grab readers' attention more effectively, as it directly relates to them.
+I believe it would enhance the narrative flow if the sections on meat consumption and meat production were switched. As production comes before consumption.
 
 **Reader 2. Student, mid 20’s**
 
 *How do you feel about the whole story line?*
 
-I think it's well-structured, and I can tell this is something that you really cares about. 
+I think it's well-structured, and I can tell this is something that you really cares about. Also, I like the way you added reference so that I can know that the content you had is based on something trustful.
 
 *Is there anything you find surprising or confusing?*
 
