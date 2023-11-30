@@ -1,4 +1,4 @@
-# Final-Project-Part2\
+# Final-Project-Part2
 
 ## User research and interviews
 
@@ -57,3 +57,11 @@ The report is enlightening, offering a comprehensive understanding of the global
 *Is there anything you would change or do differently?*  
 
 I would wish to see more picture in this article as there are a lot of words and graphs already in the article, and I think adding some pictures can make the whole reading process more interesting.
+
+## Personas
+
+### 1. Emily
+<img src="Emily Persona.png" width="700"/>
+
+### 2. John
+<img src="John Persona.png" width="700"/>
