@@ -4,6 +4,18 @@
 I tried to start using Shorthand to create a draft of my final report, but faced some issue of adding my graphs on it and some difficulty of generating an ideal templete, so in Part2, I used word as the draft, and tried my best to show my plan of formatting and the whole story.
 The content here is the version after taking the useful advice provided by my interviewees.
 
+<img src="P1.png" width="1050"/>
+<img src="P2-1.png" width="1050"/>
+<img src="P2-2.png" width="1050"/>
+<img src="P3-1.png" width="1050"/>
+<img src="P3-2.png" width="1050"/>
+<img src="P4-1.png" width="1050"/>
+<img src="P4-2.png" width="1050"/>
+<img src="P5.png" width="1050"/>
+<img src="P6-1.png" width="1050"/>
+<img src="P6-2.png" width="1050"/>
+<img src="P7.png" width="1050"/>
+<img src="P8.png" width="1050"/>
 
 ## User research and interviews
 
